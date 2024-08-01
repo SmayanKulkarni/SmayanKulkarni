@@ -27,6 +27,8 @@
 	<code><img width="90" src="https://user-images.githubusercontent.com/25181517/186884153-99edc188-e4aa-4c84-91b0-e2df260ebc33.png" alt="Ubuntu" title="Ubuntu"/></code>
 	<code><img width="90" src="https://deepakrip007.wordpress.com/wp-content/uploads/2022/06/pandas-python.png" alt="Pandas" title="Pandas"/></code>
  	<code><img width="90" src="https://cdn.worldvectorlogo.com/logos/numpy-1.svg" alt="Numpy" title="Numpy"/></code>
+  	<code><img width="90" src="https://seeklogo.com/images/M/matplotlib-logo-7676870AC0-seeklogo.com.png" alt="Numpy" title="Matplotlib"/></code>
+  
 	
 </div>
 
