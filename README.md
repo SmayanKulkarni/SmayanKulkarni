@@ -3,7 +3,6 @@
 <a href="https://www.linkedin.com/in/smayan-kulkarni-792520296/">
   <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" width="120" height="30" alt="LeetCode">
 </a>
-
 <p></p>
 <a href="https://leetcode.com/u/SmayanKulkarni/">
   <img src="https://upload.wikimedia.org/wikipedia/commons/c/c2/LeetCode_Logo_2.png?20190719232544" width="120" height="30" alt="LeetCode">
