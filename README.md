@@ -29,8 +29,6 @@
   	<code><img width="90" src="https://seeklogo.com/images/M/matplotlib-logo-7676870AC0-seeklogo.com.png" alt="Matplotlib" title="Matplotlib"/></code>
    	<code><img width="90" src="https://avatars.githubusercontent.com/u/22799945?s=200&v=4" alt="Seaborn" title="Seaborn"/></code>
     	<code><img width="90" src="https://image.spreadshirtmedia.com/image-server/v1/compositions/T347A1PA4306PT17X34Y52D1047062111W18351H9884/views/1,width=500,height=500,appearanceId=1,backgroundColor=ffffff/scikit-learn-logo-womens-t-shirt.jpg" alt="Scikit-Learn" title="Scikit-Learn"/></code>
-  
-	
 </div>
 
 # 📊 GitHub Stats:
