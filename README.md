@@ -38,6 +38,9 @@
         </tr>
         <tr>
 			<td><code><img width="50" src="https://cdn.analyticsvidhya.com/wp-content/uploads/2023/07/langchain3.png" alt="LangChain" title="LangChain"/></code></td>
+			<td><code><img width="50" src="https://miro.medium.com/1*9HFsjXjgw6oG2HwQ3Okgwg.png" alt="LangGraph" title="LangGraph"/></code></td>
+			<td><code><img width="50" src="https://www.drupal.org/files/project-images/ollama-logo.png" alt="Ollama" title="Ollama"/></code></td>	
+			<td><code><img width="50" src="https://www.drupal.org/files/project-images/ollama-logo.png" alt="Ollama" title="Ollama"/></code></td>
 		</tr>
 	</table>
 </div>
