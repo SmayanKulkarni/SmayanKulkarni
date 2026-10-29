@@ -1,3 +1,6 @@
+<img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/5/58/Tung_Tung_Tung_Sahur.webm/500px--Tung_Tung_Tung_Sahur.webm.jpg"/>
+
+
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:000000,50:0B3D3A,100:40E0D0&text=Smayan%20Kulkarni&fontColor=40E0D0&fontSize=60&fontAlignY=38&desc=AI%20%2F%20ML%20Developer%20%7C%20Agentic%20AI%20%7C%20Backend%20Engineering&descColor=B2FFF5&descSize=20&descAlignY=60&animation=fadeIn" width="100%" alt="Smayan Kulkarni banner"/>
